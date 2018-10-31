@@ -209,9 +209,9 @@ figure:hover+span {
   transition: .3s ease-in-out;
 }
 
-/*.hover08 figure:hover img {
-	-webkit-filter: grayscale(0);
-	filter: grayscale(0);
+.hover08 figure:hover img {
+  -webkit-filter: grayscale(0);
+  filter: grayscale(0);
 }
 
 /* Sepia */
