@@ -154,8 +154,8 @@ figure:hover+span {
   transition: .3s ease-in-out;
 }
 
-/*.hover04 figure:hover img {
-	width: 300px;
+.hover04 figure:hover img {
+  width: 300px;
 }
 
 /* Slide */
