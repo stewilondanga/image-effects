@@ -140,9 +140,9 @@ figure:hover+span {
   transition: .3s ease-in-out;
 }
 
-/*.hover03 figure:hover img {
-	-webkit-transform: scale(1);
-	transform: scale(1);
+.hover03 figure:hover img {
+  -webkit-transform: scale(1);
+  transform: scale(1);
 }
 
 /* Zoom Out #2 */
