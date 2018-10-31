@@ -1,3 +1,9 @@
+body {
+  color: #333;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -21,11 +27,6 @@
   height: 1.5em;
 }
 
-body {
-	color: #333;
-	font-family: 'Open Sans', sans-serif;
-	font-weight: 300;
-}
 h1,
 h1+p {
 	margin: 30px 15px 0;
@@ -103,6 +104,7 @@ figure:hover+span {
 
 
 /* Zoom In #1 */
+
 /*.hover01 figure img {
 	-webkit-transform: scale(1);
 	transform: scale(1);
@@ -115,6 +117,7 @@ figure:hover+span {
 }
 
 /* Zoom In #2 */
+
 /*.hover02 figure img {
 	width: 300px;
 	height: auto;
@@ -126,6 +129,7 @@ figure:hover+span {
 }
 
 /* Zoom Out #1 */
+
 /*.hover03 figure img {
 	-webkit-transform: scale(1.5);
 	transform: scale(1.5);
@@ -138,6 +142,7 @@ figure:hover+span {
 }
 
 /* Zoom Out #2 */
+
 /*.hover04 figure img {
 	width: 400px;
 	height: auto;
@@ -149,6 +154,7 @@ figure:hover+span {
 }
 
 /* Slide */
+
 /*.hover05 figure img {
 	margin-left: 30px;
 	-webkit-transform: scale(1.5);
@@ -161,6 +167,7 @@ figure:hover+span {
 }
 
 /* Rotate */
+
 /*.hover06 figure img {
 	-webkit-transform: rotate(15deg) scale(1.4);
 	transform: rotate(15deg) scale(1.4);
@@ -173,6 +180,7 @@ figure:hover+span {
 }
 
 /* Blur */
+
 /*.hover07 figure img {
 	-webkit-filter: blur(3px);
 	filter: blur(3px);
@@ -185,6 +193,7 @@ figure:hover+span {
 }
 
 /* Gray Scale */
+
 /*.hover08 figure img {
 	-webkit-filter: grayscale(100%);
 	filter: grayscale(100%);
@@ -197,6 +206,7 @@ figure:hover+span {
 }
 
 /* Sepia */
+
 /*.hover09 figure img {
 	-webkit-filter: sepia(100%);
 	filter: sepia(100%);
@@ -209,6 +219,7 @@ figure:hover+span {
 }
 
 /* Blur + Gray Scale */
+
 /*.hover10 figure img {
 	-webkit-filter: grayscale(0) blur(0);
 	filter: grayscale(0) blur(0);
@@ -221,6 +232,7 @@ figure:hover+span {
 }
 
 /* Opacity #1 */
+
 /*.hover11 figure img {
 	opacity: 1;
 	-webkit-transition: .3s ease-in-out;
@@ -231,6 +243,7 @@ figure:hover+span {
 }
 
 /* Opacity #2 */
+
 /*.hover12 figure {
 	background: #1abc9c;
 }
@@ -244,6 +257,7 @@ figure:hover+span {
 }
 
 /* Flashing */
+
 /*.hover13 figure:hover img {
 	opacity: 1;
 	-webkit-animation: flash 1.5s;
@@ -267,6 +281,7 @@ figure:hover+span {
 }
 
 /* Shine */
+
 /*.hover14 figure {
 	position: relative;
 }
@@ -300,6 +315,7 @@ figure:hover+span {
 }
 
 /* Circle */
+
 /*.hover15 figure {
 	position: relative;
 }
