@@ -244,12 +244,13 @@ figure:hover+span {
 
 /* Opacity #1 */
 
-/*.hover11 figure img {
-	opacity: 1;
-	-webkit-transition: .3s ease-in-out;
-	transition: .3s ease-in-out;
+.hover11 figure img {
+  opacity: 1;
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
 }
-.hover11 figure:hover img {
+
+/*.hover11 figure:hover img {
 	opacity: .5;
 }
 
