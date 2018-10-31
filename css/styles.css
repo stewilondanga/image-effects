@@ -53,12 +53,13 @@ h2 span {
   padding-bottom: 60px;
 }
 
-/*.column::after {
-	content: '';
-	clear: both;
-	display: block;
+.column::after {
+  content: '';
+  clear: both;
+  display: block;
 }
-.column div {
+
+/*.column div {
 	position: relative;
 	float: left;
 	width: 300px;
