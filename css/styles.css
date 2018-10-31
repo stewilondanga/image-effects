@@ -328,10 +328,10 @@ figure:hover+span {
   }
 }
 
-/*@keyframes shine {
-	100% {
-		left: 125%;
-	}
+@keyframes shine {
+  100% {
+    left: 125%;
+  }
 }
 
 /* Circle */
