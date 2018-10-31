@@ -44,11 +44,12 @@ h2 span {
   font-size: 85%;
 }
 
-/*.column {
-	margin: 15px 15px 0;
-	padding: 0;
+.column {
+  margin: 15px 15px 0;
+  padding: 0;
 }
-.column:last-child {
+
+/*.column:last-child {
 	padding-bottom: 60px;
 }
 .column::after {
