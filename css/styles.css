@@ -127,8 +127,8 @@ figure:hover+span {
   transition: .3s ease-in-out;
 }
 
-/*.hover02 figure:hover img {
-	width: 350px;
+.hover02 figure:hover img {
+  width: 350px;
 }
 
 /* Zoom Out #1 */
