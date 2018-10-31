@@ -356,11 +356,12 @@ figure:hover+span {
   opacity: 0;
 }
 
-/*.hover15 figure:hover::before {
-	-webkit-animation: circle .75s;
-	animation: circle .75s;
+.hover15 figure:hover::before {
+  -webkit-animation: circle .75s;
+  animation: circle .75s;
 }
-@-webkit-keyframes circle {
+
+/*@-webkit-keyframes circle {
 	0% {
 		opacity: 1;
 	}
