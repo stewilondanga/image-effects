@@ -223,9 +223,9 @@ figure:hover+span {
   transition: .3s ease-in-out;
 }
 
-/*.hover09 figure:hover img {
-	-webkit-filter: sepia(0);
-	filter: sepia(0);
+.hover09 figure:hover img {
+  -webkit-filter: sepia(0);
+  filter: sepia(0);
 }
 
 /* Blur + Gray Scale */
