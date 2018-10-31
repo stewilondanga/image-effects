@@ -19,12 +19,12 @@ body {
   height: 1.5em;
 }
 
-/*h1,
-h1+p {
-	margin: 30px 15px 0;
-	font-weight: 300;
+h1, h1+p {
+  margin: 30px 15px 0;
+  font-weight: 300;
 }
-h1+p a {
+
+/*h1+p a {
 	color: #333;
 }
 h1+p a:hover {
