@@ -168,8 +168,8 @@ figure:hover+span {
   transition: .3s ease-in-out;
 }
 
-/*.hover05 figure:hover img {
-	margin-left: 0;
+.hover05 figure:hover img {
+  margin-left: 0;
 }
 
 /* Rotate */
