@@ -336,10 +336,11 @@ figure:hover+span {
 
 /* Circle */
 
-/*.hover15 figure {
-	position: relative;
+.hover15 figure {
+  position: relative;
 }
-.hover15 figure::before {
+
+/*.hover15 figure::before {
 	position: absolute;
 	top: 50%;
 	left: 50%;
