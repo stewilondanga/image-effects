@@ -28,10 +28,11 @@ h1+p a {
   color: #333;
 }
 
-/*h1+p a:hover {
-	text-decoration: none;
+h1+p a:hover {
+  text-decoration: none;
 }
-h2 {
+
+/*h2 {
 	margin: 60px 15px 0;
 	padding: 0;
 	font-weight: 300;
