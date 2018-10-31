@@ -49,10 +49,11 @@ h2 span {
   padding: 0;
 }
 
-/*.column:last-child {
-	padding-bottom: 60px;
+.column:last-child {
+  padding-bottom: 60px;
 }
-.column::after {
+
+/*.column::after {
 	content: '';
 	clear: both;
 	display: block;
