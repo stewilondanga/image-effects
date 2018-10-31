@@ -38,12 +38,13 @@ h2 {
   font-weight: 300;
 }
 
-/*h2 span {
-	margin-left: 1em;
-	color: #aaa;
-	font-size: 85%;
+h2 span {
+  margin-left: 1em;
+  color: #aaa;
+  font-size: 85%;
 }
-.column {
+
+/*.column {
 	margin: 15px 15px 0;
 	padding: 0;
 }
