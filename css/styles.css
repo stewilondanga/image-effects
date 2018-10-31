@@ -147,13 +147,14 @@ figure:hover+span {
 
 /* Zoom Out #2 */
 
-/*.hover04 figure img {
-	width: 400px;
-	height: auto;
-	-webkit-transition: .3s ease-in-out;
-	transition: .3s ease-in-out;
+.hover04 figure img {
+  width: 400px;
+  height: auto;
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
 }
-.hover04 figure:hover img {
+
+/*.hover04 figure:hover img {
 	width: 300px;
 }
 
