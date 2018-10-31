@@ -237,9 +237,9 @@ figure:hover+span {
   transition: .3s ease-in-out;
 }
 
-/*.hover10 figure:hover img {
-	-webkit-filter: grayscale(100%) blur(3px);
-	filter: grayscale(100%) blur(3px);
+.hover10 figure:hover img {
+  -webkit-filter: grayscale(100%) blur(3px);
+  filter: grayscale(100%) blur(3px);
 }
 
 /* Opacity #1 */
