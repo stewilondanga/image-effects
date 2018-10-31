@@ -90,15 +90,16 @@ h2 span {
   opacity: 0;
 }
 
-/*figure {
-	width: 300px;
-	height: 200px;
-	margin: 0;
-	padding: 0;
-	background: #fff;
-	overflow: hidden;
+figure {
+  width: 300px;
+  height: 200px;
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  overflow: hidden;
 }
-figure:hover+span {
+
+/*figure:hover+span {
 	bottom: -36px;
 	opacity: 1;
 }
