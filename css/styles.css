@@ -181,9 +181,9 @@ figure:hover+span {
   transition: .3s ease-in-out;
 }
 
-/*.hover06 figure:hover img {
-	-webkit-transform: rotate(0) scale(1);
-	transform: rotate(0) scale(1);
+.hover06 figure:hover img {
+  -webkit-transform: rotate(0) scale(1);
+  transform: rotate(0) scale(1);
 }
 
 /* Blur */
